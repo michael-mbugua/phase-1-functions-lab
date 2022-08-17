@@ -32,3 +32,4 @@ function calculatesFarePrice(start,destination){
 }
 calculatesFarePrice()
 
+
